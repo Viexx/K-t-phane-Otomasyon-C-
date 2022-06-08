@@ -1,0 +1,12 @@
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\KutuphaneOtomasyon.exe.config
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\KutuphaneOtomasyon.exe
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\KutuphaneOtomasyon.pdb
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.Form1.resources
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.Properties.Resources.resources
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.exe
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.pdb
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.AdminSayfasi.resources
+C:\Users\Arif\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\KutuphaneOtomasyon.UyeSayfasi.resources
